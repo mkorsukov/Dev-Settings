@@ -8,6 +8,7 @@
     "workbench.editor.enablePreview": false,
     "workbench.editor.focusRecentEditorAfterClose": false,
     "workbench.editor.restoreViewState": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
     "explorer.compactFolders": false,
     "explorer.confirmDelete": false,
     "explorer.openEditors.visible": 1,
@@ -63,9 +64,10 @@
     "debug.hideLauncherWhileDebugging": true,
     "omnisharp.loggingLevel": "error",
     "omnisharp.sdkIncludePrereleases": false,
-    "dotnet.defaultSolution": "disable",
     "dotnet.server.useOmnisharp": true,
+    "dotnet.defaultSolution": "disable",
     "dotnet.codeLens.enableReferencesCodeLens": false,
     "dotnet.codeLens.enableTestsCodeLens": false,
-    "dotnetAcquisitionExtension.enableTelemetry": false
+    "dotnetAcquisitionExtension.enableTelemetry": false,
+    "chat.disableAIFeatures": true
 }

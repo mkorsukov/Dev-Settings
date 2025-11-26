@@ -1,0 +1,13 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+# Project files
+launchSettings.json
+local.settings.json
+
+# IDEs
+.vscode
+.idea
+.devcontainer
