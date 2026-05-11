@@ -27,6 +27,7 @@
     "editor.codeLens": false,
     "editor.fontFamily": "monospace",
     "editor.fontSize": 13,
+    "editor.inlayHints.enabled": "off",
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "files.exclude": {
@@ -69,5 +70,7 @@
     "dotnet.codeLens.enableReferencesCodeLens": false,
     "dotnet.codeLens.enableTestsCodeLens": false,
     "dotnetAcquisitionExtension.enableTelemetry": false,
-    "chat.disableAIFeatures": true
+    "chat.disableAIFeatures": true,
+    "scm.defaultViewMode": "tree",
+    "scm.repositories.selectionMode": "single"
 }
