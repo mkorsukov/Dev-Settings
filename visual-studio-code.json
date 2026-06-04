@@ -38,6 +38,12 @@
         "**/.idea": true,
         "**/.devcontainer": true
     },
+    "files.watcherExclude": {
+        "**/.git/**": true,
+        "**/node_modules/**": true,
+        "**/bin/**": true,
+        "**/obj/**": true
+    },
     "search.quickOpen.includeHistory": false,
     "search.exclude": {
         "**/node_modules": true,
